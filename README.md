@@ -22,4 +22,3 @@ This is a small game version of the well-known mini-game from Chrome on Pygame.
 ### Scheme 
 
 ![img.png](img.png)
-s
